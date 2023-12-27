@@ -1,0 +1,1 @@
+- npm run dev - Sobe as atualizações para o site.
